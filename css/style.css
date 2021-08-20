@@ -31,11 +31,15 @@ header{
     font-size: 26px;
 }
  section{
-     padding: 20px;
+   
      background-image: url('/img/people.jpg');
      background-size: cover;
      overflow: hidden;
- }
+     padding: 20px;
+    }
+
+
+
 /*----form---*/
 
 .formContainer{
