@@ -30,9 +30,9 @@ header{
 .title{
     font-size: 26px;
 }
- section {
+ section{
    
-     background-image: url('/img/people.jpg');
+     background-image: url("/img/cool.jpg");
      background-size: cover;
      overflow: hidden;
      padding: 20px;
