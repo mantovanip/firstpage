@@ -15,18 +15,12 @@
  <a href="#autor">Autor</a>
 </p>
 
-
-
 <h4>  🚀 Objetivo </h4>
 
 
 <p >🚀Criar uma webpage funcional para cadastro de contatos para um workshop</p>
 
-
-
 <h4 >  🛠️ Tecnologias </h4>
-
-<p align="center">Tecnologias usada</p>
 
 - [HTML](https://https://www.w3schools.com/html/default.asp)
 - [CSS](https://https://www.w3schools.com/css/css_intro.asp)
