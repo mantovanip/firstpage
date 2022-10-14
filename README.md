@@ -36,9 +36,9 @@ foi usado wampserver(versao 3.3.6-64bit), para integrar no banco de dados mySql 
 
 <p align="center">Tecnologias usada</p>
 
-- [HTML](https://https://www.w3schools.com/html/default.asp)
+<div align="center" >- [HTML](https://https://www.w3schools.com/html/default.asp)
 - [CSS](https://https://www.w3schools.com/css/css_intro.asp)
-- [MAILCHIMP](https://mailchimp.com/pt-br/)
+- [MAILCHIMP](https://mailchimp.com/pt-br/)<div>
 
 <h4 align="center"> 
 ✒️ Contribuição
