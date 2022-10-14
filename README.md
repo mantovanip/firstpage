@@ -43,18 +43,14 @@ foi usado wampserver(versao 3.3.6-64bit), para integrar no banco de dados mySql 
 <h4 align="center"> 
 ✒️ Contribuição
 </h4>
-*Grande Mentor/Dev/Professor Igor Oliveira** - *Trabalho Inicial* - 
-
+*Grande Mentor/Dev/Professor Igor Oliveira** -
 <h4 align="center"> 
  🎁 Expressões de gratidão
 </h4>
-
 <p align="center">
 * Projeto feito em aula, individual para usarmos nossos conhecimentos na pratica sem ajuda direta do professor. 📢;
 * #partiutomauma  🍺;
 * Um agradecimento em especial ao professor Igor por está nos mentorando nessa jornada.</p>
-
-
 <h4 align="center"> 
 ✒️ Autor
 </h4>
